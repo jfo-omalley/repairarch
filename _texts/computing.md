@@ -26,6 +26,8 @@ Globally,
 
 ![][image-1]
 
+![computingshare]()([https://github.com/jfo-omalley/repairarch/blob/master/\_texts/\_images/computing\_share.png][2])
+
 Date
 
 Extent
@@ -79,5 +81,7 @@ Credit
 Scope and Content
 
 Administrative History 
+
+[2]:	https://github.com/jfo-omalley/repairarch/blob/master/_texts/_images/computing_share.png
 
 [image-1]:	https://github.com/jfo-omalley/repairarch/blob/master/_texts/_images/computing_share.png
