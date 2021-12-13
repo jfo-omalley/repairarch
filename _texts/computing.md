@@ -26,6 +26,8 @@ Globally,
 
 ![smile]()
 
+![][image-1]
+
 Date
 
 Extent
@@ -83,3 +85,6 @@ Administrative History
 [smile](): computing_share.png 
 {: height="36px" width="36px"}
 
+
+
+[image-1]:	https://raw.githubusercontent.com/jfo-omalley/repairarch/master/_texts/_images/computing_share.png
