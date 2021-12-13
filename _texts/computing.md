@@ -24,9 +24,7 @@ Globally,
 
 ## Folder 1: Computing Mutual Aid
 
-![][image-1]
-
-![computingshare]()([https://github.com/jfo-omalley/repairarch/blob/master/\_texts/\_images/computing\_share.png][2])
+![smile]()
 
 Date
 
@@ -82,6 +80,6 @@ Scope and Content
 
 Administrative History 
 
-[2]:	https://github.com/jfo-omalley/repairarch/blob/master/_texts/_images/computing_share.png
+[smile](): computing_share.png 
+{: height="36px" width="36px"}
 
-[image-1]:	https://github.com/jfo-omalley/repairarch/blob/master/_texts/_images/computing_share.png
