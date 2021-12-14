@@ -68,7 +68,7 @@ Diller - von Furstenberg Family Foundation
 
 A group of landscape architects funded by the Diller - von Furstenberg Family Foundation delivered a series of innovations from 2500 to 2530 to rebuilding developments in the Montauk, NY area. Among other works, the architects rerouted solar power to regenerate tree networks and designed elevated, rotating, large-scale aviaries that simulated migration-friendly climates. Historic bird populations were subsequently reintroduced from gene banks. The folder includes the original plans, small-scale models, and functional solar leaves.
 
-
+ 
 
 Following a well-noted lawsuit, captured here, the Diller - von Furstenberg Family released the plans and agreed to match funding for public programs to install the solar leaves in the former Central Park area.
 
