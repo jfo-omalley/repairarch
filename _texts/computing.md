@@ -50,20 +50,31 @@ The digital collection of the archive features an immaculately preserved copy of
 
 Donated in 2050 with consensus permission of former members of the CSC. Processed by the CSC Community Archives Project, hosted on the re-distributed Colorado State intranet.
 
-## Folder 2: Multi-species Mods
+## Folder 2: Multi-Species Landscaping
 
-Date
+*Date*
 
-Extent
+2500 - 2530
 
+*Extent*
 
-Creator
+Bird hives, synthetic tree leaves, fungal spores, landscape architecture plans, contracts, pay-stubs, restricted legal documents.
 
-Credit
+*Creator*
+
+Diller - von Furstenberg Family Foundation
   
-Scope and Content
+*Scope and Content*
 
-Administrative History 
+A group of landscape architects funded by the Diller - von Furstenberg Family Foundation delivered a series of innovations from 2500 to 2530 to rebuilding developments in the Montauk, NY area. Among other works, the architects rerouted solar power to regenerate tree networks and designed elevated, rotating, large-scale aviaries that simulated migration-friendly climates. Historic bird populations were subsequently reintroduced from gene banks. The folder includes the original plans, small-scale models, and functional solar leaves.
+
+
+
+Following a well-noted lawsuit, captured here, the Diller - von Furstenberg Family released the plans and agreed to match funding for public programs to install the solar leaves in the former Central Park area.
+
+*Administrative History* 
+
+Augmented surrogates courtesy of the Smithsonian. 
 
 ## Folder 3: (Un)Automatic Updates
 
