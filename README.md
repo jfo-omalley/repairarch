@@ -1,4 +1,3 @@
-# Repair Arch
-## A Speculative Archive of Methods of Repair
+# Repair Arch: A Speculative Archive of Repairs
 
-# Background
+## Background
