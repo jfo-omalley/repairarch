@@ -42,6 +42,8 @@ Colorado State Computer CSC (Community Supported Computing)
 
 This folder contains mixed media materials documenting the activities of the Colorado State Computer CSC, primarily from 2035 onward. The documentation includes technical information for the implementation of their modular and shared computing centers, sign-ups. Notable correspondence with globally located CSCs includes partner communities in Kenya, Vietnam, and the Philippines that transitioned from call centers and other customer support professions. 
 
+The digital collection of the archive features an immaculately preserved copy of mixed media from the CSC bulletin board, dated 2040.
+
 ![Preserved copy of a CSC bulletin board. 2040.][image-1]
 
 *Administrative History*
