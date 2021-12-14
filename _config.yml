@@ -2,7 +2,7 @@
 
 # Setup
 title:               Repair Arch.
-tagline:             'a speculative archive based on new methods of reapir'
+tagline:             'a speculative archive of new methods of repair'
 description:         'The repair archive is a speculative project to imagine the information network surrounding programs, technologies, and futures resulting from the raidcal implementation of new methods of repair.'
 url:                 'https://jfo-omalley.github.io/repairarch/'
 baseurl:             '/repairarch'
