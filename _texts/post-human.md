@@ -59,3 +59,16 @@ Scope and Content
 
 Administrative History
 
+## Folder 4: Healing Mimicry
+
+Date
+
+Extent
+
+Creator
+
+Credit: Nancy Smith
+
+Scope and Content
+
+Administrative History

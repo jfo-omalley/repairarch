@@ -54,7 +54,7 @@ Extent
 
 Creator
 
-Credit
+Credit: Nicola Morrow
 
 Scope and Content
 
@@ -73,3 +73,5 @@ Credit
 Scope and Content
 
 Administrative History
+
+# toolbox of mutli-species healing strategies (like aoxotol, or using honey) -- natural elements to heal bodies
