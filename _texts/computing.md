@@ -24,7 +24,7 @@ Globally,
 
 ## Folder 1: Computing Mutual Aid
 
-![smiley]()(../images/computingshare.png)
+![smiley]()(images/computingshare.png)
 
 Date
 
@@ -79,7 +79,4 @@ Credit
 Scope and Content
 
 Administrative History 
-
-[smile](): computing_share.png 
-{: height="36px" width="36px"}
 
