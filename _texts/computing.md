@@ -14,9 +14,9 @@ toc:
 
 ## Description
 
-Shared computing can turn your computer's downtime into a piece of a super-processor, but, if your computer had down time in the first place, why did you pay so much for it? Modular computing starts from the premise that most people have more computational power than they need, and, when advancing computational power equates to extraction from the earth and digital obsolescence, reducing computing power is an environmental imperative. 
+Shared computing can turn your computer's downtime into a piece of a super-processor. But if your computer had down time in the first place, why did you pay so much for it? Modular computing starts from the premise that most people have more computational power than they need. When wealthy countries use advanced computation to power extraction from the earth and practice data-drive colonization, reducing computing power becomes a moral and environmental imperative.
 
-Globally,
+Globally,f
 
 ## Scope and Content
 
