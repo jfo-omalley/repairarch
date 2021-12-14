@@ -66,7 +66,7 @@ Diller - von Furstenberg Family Foundation
   
 *Scope and Content*
 
-A group of landscape architects funded by the Diller - von Furstenberg Family Foundation delivered a series of innovations from 2500 to 2530 to rebuilding developments in the Montauk, NY area. Among other works, the architects rerouted solar power to regenerate tree networks and designed elevated, rotating, large-scale aviaries that simulated migration-friendly climates. Historic bird populations were subsequently reintroduced from gene banks. The folder includes the original plans, small-scale models, and functional solar leaves.
+A group of landscape architects funded by the Diller - von Furstenberg Family Foundation delivered a series of innovations from 2500 to 2530 to rebuild developments in the Montauk, NY area. Among other works, the architects rerouted solar power to regenerate tree networks and designed elevated, rotating, large-scale aviaries that simulated migration-friendly climates. Historic bird populations were subsequently reintroduced from gene banks. The folder includes the original plans, small-scale models, and functional solar leaves.
 
  ![][image-2]
 
