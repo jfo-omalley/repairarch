@@ -72,6 +72,8 @@ A group of landscape architects funded by the Diller - von Furstenberg Family Fo
 
 Following a well-noted lawsuit, captured here, the Diller - von Furstenberg Family released the plans and agreed to match funding for public programs to install the solar leaves in the former Central Park area.
 
+![][image-3]
+
 *Administrative History* 
 
 Augmented surrogates courtesy of the Smithsonian. 
@@ -106,3 +108,4 @@ Administrative History
 
 [image-1]:	https://github.com/jfo-omalley/repairarch/blob/master/_texts/images/computingshare.png?raw=true
 [image-2]:	https://github.com/jfo-omalley/repairarch/blob/master/_texts/images/drawingsls.png?raw=true
+[image-3]:	https://github.com/jfo-omalley/repairarch/blob/master/_texts/images/trees.png?raw=true
