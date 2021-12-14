@@ -1,17 +1,17 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Repair Arch.
+tagline:             'a speculative archive based on new methods of reapir'
+description:         'The repair archive is a speculative project to imagine the information network surrounding programs, technologies, and futures resulting from the raidcal implementation of new methods of repair.'
 url:                 'https://jfo-omalley.github.io/repairarch/'
 baseurl:             '/repairarch'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Jack OMalley
+  url:               https://github.com/jfo-omalley
+  email:             jfo.omalley@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
