@@ -104,7 +104,7 @@ Credit
   
 Scope and Content
 
-Administrative History 
+Administrative History
 
 [image-1]:	https://github.com/jfo-omalley/repairarch/blob/master/_texts/images/computingshare.png?raw=true
 [image-2]:	https://github.com/jfo-omalley/repairarch/blob/master/_texts/images/drawingsls.png?raw=true

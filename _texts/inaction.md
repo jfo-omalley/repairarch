@@ -43,3 +43,17 @@ Credit
 Scope and Content
 
 Administrative History
+
+## Folder 3: Open-Source Hardware Lending Library
+
+Date
+
+Extent
+
+Creator
+
+Credit
+
+Scope and Content
+
+Administrative History
