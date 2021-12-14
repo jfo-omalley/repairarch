@@ -24,7 +24,7 @@ Globally,
 
 ## Folder 1: Computing Mutual Aid
 
-![smiley]()(images/computingshare.png)
+![smiley]()(../images/computingshare.png)
 
 Date
 
