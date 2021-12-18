@@ -52,35 +52,75 @@ Administrative history: think of this as the chain of custody, as well as a fiel
 
 ### Technical
 
-Repair.Arch runs on the [Jekyll][3] static site generator using the [Ed theme][4].  
+Repair.Arch runs on the [Jekyll][3] static site generator using the [Ed theme][4]. We prefer to use Jekyll/Ed because these technologies adhere to principles of minimal computing (one of the design methods behind Repair.Arch): reducing complexity, running on low bandwidth, and facilitating digital preservation.  
 
-## Methods
+## Methodology
 
-Currently documented for presentation purposes.
+In theory, Repair.Arch collects existing methods that fit its theory of repair and speculates on their future applications through a series of intersecting, functional design methods. 
 
-### Methodology
+This section outlines the theory behind those methods and one functional way to speculate with them. The outline describes the current contents of the archive and how they got there, but only has to serve as guidelines or a jumping off point for any future contributions. 
 
 ### Repairs
 
+Repair.Arch classifies theories or methods of repair as any design method (real or metaphor) that attempts to "re" design interventions into waste, disposal, and obsolescence, by fixing, saving, or otherwise using the past to imagine or create futures. 
+
+This section outlines a few of the most common methods as examples.
+
+_DIY (Do It Yourself)_
+
+DIY communities empower members to exit the cycle of consumption and waste by designing and building their own technology. We classify it as a method of repair because, on a practical level, DIY often repurposes or reuses components. On a broader level, DIY communities repair social practices around consumption.
+
+_Digital preservation_
+
+We would categorize digital preservation as a repair practice that centers renewal and reuse. By preserving at-risk information in sustainable, durable ways (as well as by making the choice about what losses to accept and how to mitigate waste), digital preservation strategies promote the values of resilience and accessibility.
+
+_Biographical prototypes_
+
+"Under-recognized first-person accounts of design materialized through prototyping practices," perform functional and metaphorical repairs to the harm enacted by the exclusion of disabled communities from design and technical practices. Design practices that shift or challenge dominant perspectives often tend towards reparations. (Bennet)
+
+### Deck
+
+These and other strategies are captured in the Repair.Arch design deck, which brings together three elements.
+
+- The complete inventory of repair methods, as documented through the original design research process.
+- Perspectives drawn from the [Liberatory Design Deck][5].
+- Other contemporary design methods.
+
+More information about the deck, as well as free copies, is forthcoming.
+
 ## Contribution Guidelines
 
-Repair.Arch is a template, not a final product. All submissions that fall within the collecting scope are welcome.
+Repair.Arch is a template, not a final product. All submissions that fall within the collecting scope are welcome. Creative and diverse contributions will help Repair.Arch transition from an archive of one limited perspective to a robust, durable document of new ideas.
 
 ### Collection Policy
 
+"Shared stewardship (sometimes called “co-curation”) refers to sharing authority, expertise, and responsibility for the respectful attribution, documentation, interpretation, display, care, storage, public access, and disposition of a collection item with the advice of the source community," Robert Leopold, Deputy Director, Center for Folklife and Cultural Heritage at the Smithsonian. 
+
+Effective principles for the shared stewardship of  archival digital resources, often thought of as content moderation or through the lens of the availability of digital surrogates of cultural objects, remain elusive. Repair.Arch maintains a collection policy that consists of shared commitments, rather than rules, and seeks to reject the model of expertise encoded into GitHub.
+
+Commitment one -- robust metadata: all contributions to the archive will contain robust metadata in the form of accreditation, citation, and minimum descriptive requirements neccesrary for the long-term digital preservation of elements.
+
+Commitment two -- the responsibility of archivists is to respond actively to submission requests by soliciting questions, feedback, and other contributions rather than passively accept or reject submissions. 
+
+Commitment three -- shared stewardship: this policy is open to feedback and change. Any contributor has the power to suggest changes to the collection policy at any time.
+
 ### Ways to Contribute
 
-### Adding Series
+There are essentially two ways to contribute to Repair.Arch: contributing new methods or adding content to series or folders.
 
-### Adding Folders
+#### Adding New Methods
 
-### Amending Existing Records
+Users can contribute new methods to Repair.Arch by contributing cards to the deck. To make a contribution to the main copy of the deck, hosted on GitHub, the recommended elements are title, description, an example application, and citation. You can cite yourself. You must also categorize it as repair method, a general method, or a perspective, along with a brief rationale. 
+
+#### Adding or Amending Series and Folders
+
+You can submit designs or amendments directly to the archive by editing pages in the "texts" file. These ".md" markdown files are essentially plain text files. Changes will be reviewed, and you can include any metadata elements not captured in your submission in your included comments. If you have an image or other visual component you would like to add, please included that note, as well as link to the image, in the text submission, not the comments. 
 
 ## Preservation
 
-Hosting on GitHub. Distributed copies.
+Preservation and care of this archive currently relies on the technology provided by GitHub.
 
-## Bibliography
+## Selected Bibliography
 
 TBD
 
@@ -88,3 +128,4 @@ TBD
 [2]:	https://saa-ts-dacs.github.io/dacs/06_part_I/02_chapter_01.html
 [3]:	http://jekyllrb.com/
 [4]:	https://github.com/minicomp/ed
+[5]:	https://www.liberatorydesign.com/
