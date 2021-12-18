@@ -100,7 +100,7 @@ Effective principles for the shared stewardship of  archival digital resources, 
 
 Commitment one -- robust metadata: all contributions to the archive will contain robust metadata in the form of accreditation, citation, and minimum descriptive requirements neccesrary for the long-term digital preservation of elements.
 
-Commitment two -- the responsibility of archivists is to respond actively to submission requests by soliciting questions, feedback, and other contributions rather than passively accept or reject submissions. 
+Commitment two -- open moderation: the responsibility of archivists is to respond actively to submission requests by soliciting questions, feedback, and other contributions rather than passively accept or reject submissions. 
 
 Commitment three -- shared stewardship: this policy is open to feedback and change. Any contributor has the power to suggest changes to the collection policy at any time.
 
